@@ -3,5 +3,5 @@
 <br>
 <h2> Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/103686805/204285914-c60e057a-09a7-4bd6-8913-fedfc3b65858.png" width="400px" />
+<img src="hhttps://user-images.githubusercontent.com/103686805/204292594-d03fdd26-12db-422c-8f60-3162194c2cc4.jpg" width="400px" />
 </div>
